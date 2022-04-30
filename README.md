@@ -1,5 +1,11 @@
 # Twitch Token Genertator
 
+## Twitch APP
+
+You need a twitch app to generate token!
+You can create a new one here: [Twitch Console](https://dev.twitch.tv/console/apps)
+
+Please use the http://localhost:17563 for your URL to use it!
 
 ## Run from Exe:
 
@@ -23,8 +29,6 @@ Linux
 
 Now fill your app informations in the config_template.ini 
 and save it ass config.ini.
-
-If you don't have an app you can create it at [Twitch Console](https://dev.twitch.tv/console/apps)
 
 After that just use token_gen.py 
 
