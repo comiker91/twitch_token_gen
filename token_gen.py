@@ -27,7 +27,7 @@ if os.path.isfile("config.ini"):
         exit()
 
 else:
-    print("You need to create a conig.ini from the config_template.ini")
+    print("You need to create a config.ini from the config_template.ini")
     input("Press enter to exit...")
     exit()
 
